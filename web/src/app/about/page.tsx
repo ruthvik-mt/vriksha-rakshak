@@ -8,7 +8,7 @@ export default function About() {
         <p>
           Welcome to our platform! We are dedicated to providing innovative solutions
           and exceptional experiences to our users. Our mission is to create
-          technology that makes a difference in people's lives.
+          technology that makes a difference in people&apos;s lives.
         </p>
         <p>
           Founded with a vision to revolutionize the way people interact with

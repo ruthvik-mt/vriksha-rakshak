@@ -27,6 +27,7 @@ Download the Andriod app:
 - Suggest remedies for identified diseases.
 - User-friendly web interface.
 - RESTful API for integration with other applications.
+- Developed a real time application.
 
 ## Installation
 

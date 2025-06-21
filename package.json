@@ -1,0 +1,15 @@
+{
+  "name": "vriksha-rakshak",
+  "version": "1.0.0",
+  "description": "- [Introduction](#introduction)\r - [Usage](#usage)\r - [Features](#features)\r - [Installation](#installation)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}

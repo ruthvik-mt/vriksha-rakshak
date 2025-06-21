@@ -1,7 +1,7 @@
-pandas
 --extra-index-url https://download.pytorch.org/whl/cpu
 torch==2.2.1+cpu
 torchvision
+pandas
 numpy
 matplotlib
 flask==2.0.0

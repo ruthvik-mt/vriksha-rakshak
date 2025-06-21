@@ -1,4 +1,9 @@
 {
+  "functions": {
+    "api/src/main.py": {
+      "runtime": "python3.11"
+    }
+  },
   "build": {
     "env": {
       "PYTHONDONTWRITEBYTECODE": "1"

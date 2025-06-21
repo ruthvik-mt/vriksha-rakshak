@@ -1,7 +1,7 @@
 {
   "functions": {
     "api/src/main.py": {
-      "runtime": "python3.11"
+      "runtime": "vercel-python@0.5.2"
     }
   },
   "build": {

@@ -18,9 +18,6 @@ Vriksha Rakshak aims to assist farmers and gardeners by providing a tool to iden
 visit the website:
 [vriksha-rakshak](https://vriksha-rakshak.vercel.app/)
 
-Download the Andriod app:
-[vriksha-rakshak](https://drive.google.com/drive/folders/1Lc1J_hTi_coRAt26rPWptpOcYyBWpBhd?usp=sharing)
-
 ## Features
 
 - Predict plant diseases from images.
